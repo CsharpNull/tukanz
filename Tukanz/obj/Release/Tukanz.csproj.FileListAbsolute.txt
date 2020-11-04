@@ -1,0 +1,10 @@
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\bin\Release\Tukanz.exe.config
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\bin\Release\Tukanz.exe
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\bin\Release\Tukanz.pdb
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.csprojAssemblyReference.cache
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.DontFeedTheToucan.resources
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.Properties.Resources.resources
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.csproj.GenerateResource.cache
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.exe
+C:\Users\Raphael\source\repos\Tukanz\Tukanz\obj\Release\Tukanz.pdb
